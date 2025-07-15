@@ -1,0 +1,28 @@
+[
+    {
+        "name" : "assets",
+        "icon" : "fa-regular fa-floppy-disk fa-xl"
+    },
+    {
+        "name" : "licenses",
+        "icon" : "fa-solid fa-book fa-xl"
+    },
+    {
+        "name" : "accessories",
+        "icon" : "fa-regular fa-keyboard fa-xl"
+    },
+    {
+        "name" : "consumables",
+        "icon" : "fa-solid fa-droplet fa-xl"
+    },
+    {
+        "name" : "settings",
+        "icon" : "fa-solid fa-gears fa-xl"
+    },
+
+    {
+        "name" : "Analytics",
+        "icon" : "fa-solid fa-chart-simple fa-xl"
+    }
+
+]
